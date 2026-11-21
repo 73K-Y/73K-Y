@@ -27,11 +27,13 @@ I make 3D assets and the tools around them. From 2019 to 2026 I was on Alan Walk
 
 An Italian railway simulator in Roblox Studio, starting from Torino Porta Nuova. Tracks come from real map data, signals work in blocks like the real network, and AI trains share the line with players.
 
-**Now:** drivable from Torino to Asti, freight to Alessandria. Porta Nuova has live departure boards, announcements and ticket gates.
+**Now:** drivable from Torino to Asti, freight to Alessandria, track laid to Genova. Porta Nuova has live departure boards, announcements and ticket gates.
+
+**Latest (21 Nov):** Asti rebuilt from photos and video of the real station, new MDVE coaches, live delays on every board and a departure queue.
 
 `Luau` `Roblox Studio` `Python` `Blender`
 
-📋 [Changelog](https://github.com/73K-Y/Ferrovie-Tricolore/blob/main/CHANGELOG.md) &nbsp;·&nbsp; 💬 [Discord](https://discord.gg/pH62fm3nkG) &nbsp;·&nbsp; 🎵 [TikTok](https://www.tiktok.com/@ferrovietricolore)
+📋 [Dev diary](https://github.com/73K-Y/Ferrovie-Tricolore/blob/main/CHANGELOG.md) &nbsp;·&nbsp; 💬 [Discord](https://discord.gg/pH62fm3nkG) &nbsp;·&nbsp; 🎵 [TikTok](https://www.tiktok.com/@ferrovietricolore)
 
 </td>
 <td width="45%" valign="top">
